@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Zero-shot visual reasoning through probabilistic analogical mapping
+    authors: Taylor Webb*, <strong>Shuhao Fu*</strong>, Trevor Bihl, Keith J Holyoak, Hongjing Lu (*Equal contribution)
+    conference_short: Nat Comm
+    conference: Nature Communication 14, 5144 (2023).
+    pdf: https://arxiv.org/pdf/2209.15087
+    image: ./assets/img/visipam.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Two Computational Approaches to Visual Analogy: Task-Specific Models Versus Domain-General Mapping"
+    authors: Nicholas Ichien, Qing Liu, <strong>Shuhao Fu</strong>, Keith J. Holyoak, Alan L. Yuille, Hongjing Lu
+    conference_short: Cog Sci
+    conference: "Cognitive Science, 47: e13347 (2023)."
+    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.13347
+    image: ./assets/img/car_analogy.png
+
+  - title: Domain adaptive relational reasoning for 3d multi-organ segmentation
+    authors: <strong>Shuhao Fu</strong>, Yongyi Lu, Yan Wang, Yuyin Zhou, Wei Shen, Elliot Fishman, Alan Yuille
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2005.09120
+    image: ./assets/img/miccai.png
+    notes: Early Accept
