@@ -25,4 +25,4 @@ adaptable AI systems while advancing our understanding of human cognition.
 
 {% include_relative _includes/publications.md %}
 
-[//]: # ({% include_relative _includes/services.md %})
+{% include_relative _includes/services.md %}
