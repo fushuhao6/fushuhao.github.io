@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a 4-th year Psychology Ph.D. student at University of California - Los Angeles, 
-where I am fortunate to be advised by Professor Hongjing Lu. Prior to joining the Ph.D. 
-program, I obtained my B.S. in Computer Science and Mathematics from the Hong Kong University
-of Science and Technology, advised by Professor Qifeng Chen. I also spent a wonderful year
-in CCVL lab at Johns Hopkins University advised by Professor Alan L. Yuille. 
-I spent great times at Google X and Mineral.ai.
+I'm currently in my fourth year of studying for my Ph.D. in Psychology at the University of California, Los Angeles. 
+I'm fortunate to have [Professor Hongjing Lu](https://cvl.psych.ucla.edu/people/) as my advisor. Before starting my 
+Ph.D., I earned my B.S. in Computer Science and Mathematics from the Hong Kong University of Science and Technology 
+under the guidance of [Professor Qifeng Chen](https://cqf.io/). I also had the pleasure of spending a fantastic 
+year in the [CCVL lab](https://ccvl.jhu.edu/) at Johns Hopkins University, working under the mentorship of 
+[Professor Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/). 
+Additionally, I gained valuable experience during my time at [Google X](https://x.company/) and [Mineral.ai](https://mineral.ai/).
 
 
 ## Research Interests
