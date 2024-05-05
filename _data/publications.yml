@@ -9,10 +9,17 @@ main:
 
   - title: "Two Computational Approaches to Visual Analogy: Task-Specific Models Versus Domain-General Mapping"
     authors: Nicholas Ichien, Qing Liu, <strong>Shuhao Fu</strong>, Keith J. Holyoak, Alan L. Yuille, Hongjing Lu
-    conference_short: Cog Sci
+    conference_short: CogSci
     conference: "Cognitive Science, 47: e13347 (2023)."
     pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/cogs.13347
     image: ./assets/img/car_analogy.png
+
+  - title: Human similarity judgments of emojis support alignment of conceptual systems across modalities
+    authors: Bryor Snefjella, Yiling Yun, <strong>Shuhao Fu</strong>, Hongjing Lu
+    conference_short: CogSci
+    conference: Proceedings of the Annual Meeting of the Cognitive Science Society, 45(45), 2023.
+    pdf: https://escholarship.org/content/qt1tm9621h/qt1tm9621h.pdf
+    image: ./assets/img/emoji.png
 
   - title: Domain adaptive relational reasoning for 3d multi-organ segmentation
     authors: <strong>Shuhao Fu</strong>, Yongyi Lu, Yan Wang, Yuyin Zhou, Wei Shen, Elliot Fishman, Alan Yuille
@@ -21,3 +28,12 @@ main:
     pdf: https://arxiv.org/pdf/2005.09120
     image: ./assets/img/miccai.png
     notes: Early Accept
+
+  - title: Attack-Resistant Federated Learning with Residual-based Reweighting
+    authors: <strong>Shuhao Fu</strong>, Chulin Xie, Bo Li, Qifeng Chen
+    conference_short: RSEML
+    conference: "AAAI 2021 Workshop: Towards Robust, Secure and Efficient Machine Learning".
+    pdf: https://arxiv.org/pdf/1912.11464
+    code: https://github.com/fushuhao6/Attack-Resistant-Federated-Learning
+    image: ./assets/img/arfl.png
+    notes: Bachelor's thesis
