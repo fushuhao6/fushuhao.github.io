@@ -10,7 +10,7 @@ Ph.D., I earned my B.S. in Computer Science and Mathematics from the Hong Kong U
 under the guidance of [Professor Qifeng Chen](https://cqf.io/). I also had the pleasure of spending a fantastic 
 year in the [CCVL lab](https://ccvl.jhu.edu/) at Johns Hopkins University, working under the mentorship of 
 [Professor Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/). 
-Additionally, I gained valuable experience during my time at [Google X](https://x.company/) and [Mineral.ai](https://mineral.ai/).
+Additionally, I gained valuable experience during my internships at [Google X](https://x.company/) and [Mineral.ai](https://mineral.ai/).
 
 
 ## Research Interests
