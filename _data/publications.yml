@@ -32,7 +32,7 @@ main:
   - title: Attack-Resistant Federated Learning with Residual-based Reweighting
     authors: <strong>Shuhao Fu</strong>, Chulin Xie, Bo Li, Qifeng Chen
     conference_short: RSEML
-    conference: "AAAI 2021 Workshop: Towards Robust, Secure and Efficient Machine Learning."
+    conference: "AAAI 2021 Workshop: Towards Robust, Secure and Efficient Machine Learning <strong>(RSEML)</strong>, 2021."
     pdf: https://arxiv.org/pdf/1912.11464
     code: https://github.com/fushuhao6/Attack-Resistant-Federated-Learning
     image: ./assets/img/arfl.png
