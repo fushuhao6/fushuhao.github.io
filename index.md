@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I'm currently in my fourth year of studying for my Ph.D. in Psychology at the University of California, Los Angeles. 
-I'm fortunate to have [Professor Hongjing Lu](https://cvl.psych.ucla.edu/people/) as my advisor. Before starting my 
+I'm currently in my fifth year of studying for my Ph.D. in Psychology at the University of California, Los Angeles. 
+I'm fortunate to have [Professor Hongjing Lu](https://cvl.psych.ucla.edu/people/) and [Professor Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) as my advisor. Before starting my 
 Ph.D., I earned my B.S. in Computer Science and Mathematics from the Hong Kong University of Science and Technology 
 under the guidance of [Professor Qifeng Chen](https://cqf.io/). I also had the pleasure of spending a fantastic 
 year in the [CCVL lab](https://ccvl.jhu.edu/) at Johns Hopkins University, working under the mentorship of 
